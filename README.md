@@ -16,6 +16,7 @@ Voice API, or Voice Application Programming Interface, is a technology that allo
 
 **The Advancements in Voice Technology**
 Voice technology has come a long way. From simple voice commands to complex natural language processing, voice API has evolved to provide a more human-like interaction experience. This progress has paved the way for a wide range of applications and use cases.
+https://www.enablex.io/images/voice-api/voice-api-left-top.png
 
 **Voice API Applications**
 Voice API has found applications across various domains. Here are some of the areas where it is making a significant impact:
